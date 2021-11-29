@@ -1,0 +1,40 @@
+
+monero wallet 
+name: mining 
+
+pager anxiety pact ruling gifts toxic pedantic square
+icing avatar rabbits sadness slackens soya object justice
+vitals otherwise evaluate nobody fugitive superior victim wedge rabbits
+
+
+
+graft wallet oyster dash avoid eggs olympics omega metro noises afield maze toenail lakes criminal dubbed exit oxidant selfish bovine issued eden lottery gimmick fever fishing maze
+
+-a gr -o stratum+tcp://raptorna.011data.com:3008 -u 48TxZ3Vc3S35rApoz6wvuuj1MiCA7R4qn22tarTd3JF68Rfhc1nqG3NhzWmp7VCihoDJzH1o1LBT2PTCaWSFALP1Ub5TGiG -p x
+pause
+
+./xmrig -o raptorna.011data.com:3008 -a rx/0 -u 48TxZ3Vc3S35rApoz6wvuuj1MiCA7R4qn22tarTd3JF68Rfhc1nqG3NhzWmp7VCihoDJzH1o1LBT2PTCaWSFALP1Ub5TGiG --daemon
+pause
+
+
+./xmrig -o us-firo.2miners.com:8008 -a firopow -u 48TxZ3Vc3S35rApoz6wvuuj1MiCA7R4qn22tarTd3JF68Rfhc1nqG3NhzWmp7VCihoDJzH1o1LBT2PTCaWSFALP1Ub5TGiG --daemon
+
+
+us-rvn.2miners.com:6161
+
+
+us-firo.2miners.com:8008
+
+
+
+
+
+running on xeon_miner1 6:18 11/28
+./cpuminer -a gr -o stratum+tcp://us-solo-rvn.2miners.com:7171 -u RPFgfTKo1tWQrby1qWzuq7jZav6WLGPnsp -p x
+
+
+
+
+
+running on miner1:  6:18pm 11/8
+./xmrig -o graft.westcoastxmr.ca:5555 -a rx/graft -u solo:GDnyeyHLiJMDji5RCL25di1JKpvHWcunV1xzsL9BjCAF9VbKyQbKU8fFVAmXzLchbFTw2fqSqDFtiKGtKBf3PuULHqXuBAt -p x --dameon
