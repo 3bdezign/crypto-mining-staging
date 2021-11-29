@@ -3,6 +3,19 @@
 
 
 
+
+2acoin arms
+guns4XPWzKcACrYv36G7jwgFFWu9mbC2qEDrjRNEEiWYUocsurCMR9AW6ydHXBUyL7Gh8Tx7pGdVvMzkVhvVEn6a1652SCpD7r
+
+
+nimq
+NQ3771NXHJ7GY9A02DASCK7XT6YE84L7JGDU
+
+
+qrl
+Q0105006ac906443b4997e0a0cbff67ac306503ad36547d9fa9dfa6372d26226053624f7a4227a2
+
+
 -a gr -o stratum+tcp://raptorna.011data.com:3008 -u 48TxZ3Vc3S35rApoz6wvuuj1MiCA7R4qn22tarTd3JF68Rfhc1nqG3NhzWmp7VCihoDJzH1o1LBT2PTCaWSFALP1Ub5TGiG -p x
 pause
 
@@ -13,10 +26,20 @@ pause
 ./xmrig -o us-firo.2miners.com:8008 -a firopow -u 48TxZ3Vc3S35rApoz6wvuuj1MiCA7R4qn22tarTd3JF68Rfhc1nqG3NhzWmp7VCihoDJzH1o1LBT2PTCaWSFALP1Ub5TGiG --daemon
 
 
-us-rvn.2miners.com:6161
 
 
-us-firo.2miners.com:8008
+
+graft
+./xmrig -o graft.westcoastxmr.ca:5555 -a rx/graft -u solo:GDnyeyHLiJMDji5RCL25di1JKpvHWcunV1xzsL9BjCAF9VbKyQbKU8fFVAmXzLchbFTw2fqSqDFtiKGtKBf3PuULHqXuBAt -p x --dameon
+
+
+
+
+./xmrig -o us-qrl.volt-mine.com:5555 -a rx/0 -u solo:Q0105006ac906443b4997e0a0cbff67ac306503ad36547d9fa9dfa6372d26226053624f7a4227a2 -p x --dameon
+
+./xmrig -o us-central.2acoin.org:5555 -a Argon2/Chukwa -u guns4XPWzKcACrYv36G7jwgFFWu9mbC2qEDrjRNEEiWYUocsurCMR9AW6ydHXBUyL7Gh8Tx7pGdVvMzkVhvVEn6a1652SCpD7r -p x
+
+
 
 
 
